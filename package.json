@@ -1,0 +1,27 @@
+{
+  "name": "js-loop-practice",
+  "version": "1.0.0",
+  "description": "loop practice in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillJHaggard/JSloopPractice.git"
+  },
+  "keywords": [
+    "loops",
+    "forEach",
+    "js"
+  ],
+  "author": "Will J. Haggard <willjhaggard@gmail.com> (http://willjhaggard.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillJHaggard/JSloopPractice/issues"
+  },
+  "homepage": "https://github.com/WillJHaggard/JSloopPractice#readme",
+  "devDependencies": {
+    "http-server": "0.8.5"
+  }
+}
